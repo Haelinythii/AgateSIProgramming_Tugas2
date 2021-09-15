@@ -15,3 +15,6 @@ Untuk memainkan permainan hanya perlu mendownload build dari game nya yaitu yang
     - Auto Collect boost -> +100% Gold auto collect selama 5 detik
 - Music dan sound effect
 - Coin berjatuhan di background ketika tap (Particle System)
+
+## Authors
+Ignatius Dwiki Iskandar (Haelinythii)
