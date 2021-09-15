@@ -1,4 +1,6 @@
-# AgateSIProgramming_Tugas2
+# Incremental Game
+
+Sebuah incremental game mengumpulkan gold sebanyak-banyaknya
 
 ## Deskripsi
 Ini adalah game incremental yang dibuat dengan Unity. Game ini sangat mudah untuk dimainkan, hanya perlu untuk mengklik pada layar untuk mendapatkan gold, yang nantinya bisa dipakai untuk mengupgrade resource yang ada. Game ini dibuat dalam rangka pembelajaran Studi Independen Game Development Bootcamp bersama Agate Academy.
